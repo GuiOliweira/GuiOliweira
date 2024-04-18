@@ -1,4 +1,5 @@
-### Olá! Sou o Guilherme Oliveira 👋🏻
+## Olá! Sou o Guilherme Oliveira 👋🏻
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-b34324210)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511954956622)
@@ -15,4 +16,6 @@
     <img align="center" alt="exel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+</div><br/>
+
+### Apenas um universitário apaixonado por tecnologia. 👨🏼‍💻👾
